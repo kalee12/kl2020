@@ -1,0 +1,123 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.aevus {
+  color: #90DAC7;
+}
+
+.aevus, .ambulo, .chromatic, .ocam {
+  font-weight: bolder;
+}
+
+.ambulo {
+  color: #90DAB9;
+}
+
+
+.amL:link, .amL:visited {
+  background-color: #90DAB9;
+}
+
+.chromatic {
+  color: #668FBF;
+}
+
+.chL:link, .chL:visited {
+  background-color: #668FBF;
+}
+
+.hh {
+  color: #1FB3A9;
+}
+
+.hhL:link, .hhL:visited {
+  background-color: #1FB3A9;
+}
+
+.amL:link, .amL:visited, .chL:link, .chL:visited,
+.hhL:link, .hhL:visited, .ocamL:link, .ocamL:visited,
+.shL:link, .shL:visited, .shiL:link, .shiL:visited  {
+  color: white;
+  padding: 2% 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: fit-content;
+  opacity: .5;
+  margin: auto;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.container:hover .overlay {
+  opacity: .8;
+}
+
+.inner {
+  padding: 10px; 
+  height: fit-content; 
+  border: 1px solid rgba(0, 0, 0, .1);
+}
+
+.ocam {
+  color: #3d1070; 
+}
+
+.ocamL:link, .ocamL:visited {
+  background-color: #3d1070;
+}
+
+.outer {
+  padding: 5px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+
+.sh {
+  color: #43B5E6;
+}
+
+.shL:link, .shL:visited {
+  background-color: #43B5E6;
+}
+
+.shift {
+  color: #8D89B1;
+}
+
+.shiL:link, .shiL:visited {
+  background-color: #8D89B1;
+}
+
+.text {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

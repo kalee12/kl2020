@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import './component.css';
 
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 import constants from "./Components/constants";
 
 import MainActivity from "./Components/MainActivity";

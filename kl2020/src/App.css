@@ -121,3 +121,8 @@ a:hover {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;  
+}

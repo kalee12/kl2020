@@ -19,7 +19,8 @@ export default class Navigation extends React.Component {
         }
         return(
             <div style={style}>
-                <h1 style={{flexGrow: '2'}}>KAREN LEE</h1>
+                <Link to="/"><h1 style={{flexGrow: '2'}}>KAREN LEE</h1></Link>
+                <div style={{marginLeft:"70%"}}></div>
                 <Link to="/">work</Link>
                 <div style={{marginLeft:"1%"}}></div>
                 <Link to="/about">about</Link>

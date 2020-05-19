@@ -14,10 +14,8 @@ export default class ProjectContainer extends React.Component {
                         icon={this.props.icon}
                         left={this.props.left}  
                         link={this.props.link}
-                        // name={this.props.name}
                         right={this.props.right}
                         top={this.props.top}
-                        // type={this.props.type}
                         width={this.props.width}
                     />
                     <div class="col" style={{padding:"2%"}}>

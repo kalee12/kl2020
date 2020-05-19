@@ -7,6 +7,7 @@ export default {
         sh: "/sh",
         hh: "/hh",
         shift: "/shift",
-        ocam: "/ocam"
+        ocam: "/ocam",
+        about: "/about"
     }
 }

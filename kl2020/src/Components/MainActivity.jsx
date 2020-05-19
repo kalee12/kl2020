@@ -19,7 +19,7 @@ export default class MainActivity extends React.Component {
         return(
             <div>
                 <Navigation/>
-                <div style={{margin: 'auto', padding: '0 5% 0 5%'}}>
+                <div style={{margin: 'auto', padding: '0 5% 0 5%', width: "80%"}}>
                         <ProjectContainer
                             bg='rgba(61, 16, 112, .1)'
                             bottom='0'

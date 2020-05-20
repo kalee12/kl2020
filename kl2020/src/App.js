@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import './component.css';
 
@@ -16,9 +16,10 @@ import Shift from "./Components/Shift";
 
 import About from "./Components/About"
 
-function App() {
-  return (
-    <Router>
+class App extends Component {
+  render() {
+    return (
+      <Router>
       <Switch>
         <Route exact path={constants.routes.main} component={MainActivity}/>
         <Route exact path={constants.routes.aevus} component={Aevus}/>
@@ -31,7 +32,8 @@ function App() {
         <Route exact path={constants.routes.about} component={About}/>
       </Switch>
     </Router>
-  );
+    );
+  }
 }
 
 export default App;

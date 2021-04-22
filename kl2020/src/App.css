@@ -65,7 +65,7 @@ a:hover {
 
 .inner {
   padding: 10px; 
-  height: fit-content; 
+  /* height: fit-content;  */
   border: 1px solid rgba(0, 0, 0, .1);
 }
 

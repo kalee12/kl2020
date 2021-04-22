@@ -18,7 +18,7 @@ export default class Chromatic extends React.Component {
                     <div style={{textAlign:"center"}}>
                         <div style={{display:"inline", marginRight:"10%"}}>
                             <div style={{color:"#668FBF", display:"inline", fontWeight:"bold"}}>Timeframe: </div>
-                            <div style={{display:"inline"}}>Nov - Dec 2017</div>
+                            <div style={{display:"inline"}}>Nov. - Dec. 2017 (4 weeks)</div>
                         </div>
                         <div style={{display:"inline"}}>
                             <div style={{color:"#668FBF", display:"inline", fontWeight:"bold"}}>Tools: </div>
@@ -28,8 +28,7 @@ export default class Chromatic extends React.Component {
                     <div style={{marginTop:"5%"}}>
                         <div class="chromatic" style={{fontSize:"1.5em"}}>Context</div>
                         <div style={{paddingLeft:"5%"}}>
-                            <div>This was a class project for INFO 448 - Android Development. For about four weeks,
-                                we were tasked with the following
+                            <div>This was a class project for INFO 448 - Android Development. We were tasked with the following
                             </div>
                             <ul>
                                 <li>primarily use the Android SDK</li>
@@ -41,11 +40,11 @@ export default class Chromatic extends React.Component {
                         </div>
                         <div class="chromatic" style={{fontSize:"1.5em", marginTop:"2%"}}>Role</div>
                         <div style={{paddingLeft:"5%"}}>
-                            <div>I developed the interactions in which a users chooses to import their own photo. Afterwards,
-                                A user can drag along the photo to pick out the colors they wanted in their palette.
+                            <div>I developed the interactions in which a user chooses to import their own photo and 
+                                can drag along the photo to pick out the colors for their palette.
                             </div>
                             <a class="chL" href="https://github.com/kalee12/chromatic" target="_blank" 
-                                    style={{display:"block", textAlign:"center"}}>View GitHub Repo</a>
+                                    style={{display:"block", textAlign:"center", marginTop: "3%"}}>View GitHub Repo</a>
                         </div>
                     </div>
                 </div>

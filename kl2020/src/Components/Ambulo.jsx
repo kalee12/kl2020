@@ -18,7 +18,7 @@ export default class Ambulo extends React.Component {
                     <div style={{textAlign:"center"}}>
                         <div style={{display:"inline", marginRight:"10%"}}>
                             <div style={{color:"#90DAB9", display:"inline", fontWeight:"bold"}}>Timeframe: </div>
-                            <div style={{display:"inline"}}>Nov - Dec 2017</div>
+                            <div style={{display:"inline"}}>Nov. - Dec. 2017 (2 weeks)</div>
                         </div>
                         <div style={{display:"inline"}}>
                             <div style={{color:"#90DAB9", display:"inline", fontWeight:"bold"}}>Tools: </div>
@@ -26,20 +26,20 @@ export default class Ambulo extends React.Component {
                         </div>
                         <div>
                             <div style={{color:"#90DAB9", display:"inline", fontWeight:"bold"}}>APIs: </div>
-                            <div style={{display:"inline"}}>API: Google (Map / Place), Trail, Flickr</div>
+                            <div style={{display:"inline"}}>Google (Map / Place), TrailAPI, Flickr</div>
                         </div>
                     </div>
                     <div style={{marginTop:"5%"}}>
                         <div class="ambulo" style={{fontSize:"1.5em"}}>Context</div>
                         <div style={{paddingLeft:"5%"}}>
-                            <div>This was a class project for INFO 343 - Client-side Development. For about two weeks,
-                                my team designed and developed a web application about hiking catering to photographers.  
+                            <div>This was a class project for INFO 343 - Client-side Development. My team designed and 
+                                developed a web application about hiking catering to photographers.  
                             </div>
                             <div class="ambulo" style={{fontSize:"1.2em", marginTop:"2%"}}>Components</div>
                             <ul>
-                                <li>Design: We wanted a simple one like Airbnb</li>
-                                <li>Search engine: Limited by Place API</li>
-                                <li>Trail Information: Based on the coordinates given by Place API, using Trail API</li>
+                                <li>Design: We wanted a simple one, taking inspiration from Airbnb</li>
+                                <li>Search Engine: Limited by Place API</li>
+                                <li>Trail Information: Based on the coordinates given by Place API, using TrailAPI</li>
                                 <li>Photos: Using Flickr API, organizing trail results based on photo activity</li>
                                 <li>Map: Using Google Map API to preview trail information</li>
                                 <li>Accounts: Using Firebase, allows users to favorite trails</li>

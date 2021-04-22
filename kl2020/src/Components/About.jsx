@@ -18,8 +18,9 @@ export default class About extends React.Component {
                             strings={ strings } />
                     </h3>
                     <div>
-                        I graduated from the University of Washington with a BA in Philosophy, Minor in Informatics. What I
-                        do is better understand people and utilize technology to impact how information develops knowledge. 
+                        I graduated from the University of Washington with a BA in Philosophy, Minor in Informatics. My core value
+                        is "context is everything". With that, our perception always need to be challenged and expanded. 
+                        How I approach problems is a matter of finding better ways to understand people and mindfully utilize technology.   
                     </div>
                     <div style={{marginTop: "5%"}}>
                         contact: leekaren888@gmail.com 

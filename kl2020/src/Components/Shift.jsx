@@ -18,7 +18,7 @@ export default class Shift extends React.Component {
                     <div style={{textAlign:"center"}}>
                         <div style={{display:"inline", marginRight:"10%"}}>
                             <div style={{color:"#8D89B1", display:"inline", fontWeight:"bold"}}>Timeframe: </div>
-                            <div style={{display:"inline"}}>Shift - Dec 2017</div>
+                            <div style={{display:"inline"}}>Oct. - Dec. 2017 (10 weeks)</div>
                         </div>
                         <div style={{display:"inline"}}>
                             <div style={{color:"#8D89B1", display:"inline", fontWeight:"bold"}}>Tools: </div>
@@ -28,8 +28,9 @@ export default class Shift extends React.Component {
                     <div style={{marginTop:"5%"}}>
                         <div class="shift" style={{fontSize:"1.5em"}}>Context</div>
                         <div style={{paddingLeft:"5%"}}>
-                            <div>This was a class project for INFO 365 - Mobile App Design. For ten weeks,
-                                I was part of a seven-person team designing our own operating system.
+                            <div>This was a class project for INFO 365 - Mobile App Design.
+                                I was part of a seven-person team designing our own operating system. We played
+                                with color and the idea of our system adjusting with a user's surroundings.
                             </div>
                                                     </div>
                         <div class="shift" style={{fontSize:"1.5em", marginTop:"2%"}}>Concept</div>

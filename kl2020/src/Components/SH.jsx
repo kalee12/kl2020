@@ -18,7 +18,7 @@ export default class SH extends React.Component {
                     <div style={{textAlign:"center"}}>
                         <div style={{display:"inline", marginRight:"10%"}}>
                             <div style={{color:"#43B5E6", display:"inline", fontWeight:"bold"}}>Timeframe: </div>
-                            <div style={{display:"inline"}}>Feb - Mar 2017</div>
+                            <div style={{display:"inline"}}>Feb. - Mar. 2017 (2 weeks)</div>
                         </div>
                         <div style={{display:"inline"}}>
                             <div style={{color:"#43B5E6", display:"inline", fontWeight:"bold"}}>Tools: </div>
@@ -28,8 +28,8 @@ export default class SH extends React.Component {
                     <div style={{marginTop:"5%"}}>
                         <div class="sh" style={{fontSize:"1.5em"}}>Context</div>
                         <div style={{paddingLeft:"5%"}}>
-                            <div>This was a class project for INFO 201 - Technical Foundations. For about two weeks,
-                                my team designed and developed a web application about nursing homes with Medicare's data.  
+                            <div>This was a class project for INFO 201 - Technical Foundations. My team designed and developed a 
+                                web application about nursing homes with Medicare's data.  
                             </div>
                             <div class="sh" style={{fontSize:"1.2em", marginTop:"2%"}}>Tasks</div>
                             <ul>

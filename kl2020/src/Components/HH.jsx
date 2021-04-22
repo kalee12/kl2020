@@ -18,7 +18,7 @@ export default class HH extends React.Component {
                     <div style={{textAlign:"center"}}>
                         <div style={{display:"inline", marginRight:"10%"}}>
                             <div style={{color:"#1FB3A9", display:"inline", fontWeight:"bold"}}>Timeframe: </div>
-                            <div style={{display:"inline"}}>Feb - Mar 2018</div>
+                            <div style={{display:"inline"}}>Feb. - Mar. 2018</div>
                         </div>
                         <div style={{display:"inline"}}>
                             <div style={{color:"#1FB3A9", display:"inline", fontWeight:"bold"}}>Tools: </div>
@@ -28,7 +28,7 @@ export default class HH extends React.Component {
                     <div style={{marginTop:"5%"}}>
                         <div class="hh" style={{fontSize:"1.5em"}}>Context</div>
                         <div style={{paddingLeft:"5%"}}>
-                            <div>This was a class project for INFO 360 - Design Thinking. Our theme for the class was transportation. 
+                            <div>This was a class project for INFO 360 - Design Thinking. Our theme for the class was transportation - 
                                 "How do we create designs that alleviate transportation problems and congestion in Seattle?" 
                             </div>
                             <div class="hh" style={{fontSize:"1.2em", marginTop:"2%"}}>Research</div>

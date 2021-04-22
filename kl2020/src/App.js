@@ -22,7 +22,7 @@ class App extends Component {
       <Router>
       <Switch>
         <Route exact path={constants.routes.main} component={MainActivity}/>
-        <Route exact path={constants.routes.aevus} component={Aevus}/>
+        {/* <Route exact path={constants.routes.aevus} component={Aevus}/> */}
         <Route exact path={constants.routes.ambulo} component={Ambulo} />
         <Route exact path={constants.routes.chromatic} component={Chromatic}/>
         <Route exact path={constants.routes.hh} component={HH}/>

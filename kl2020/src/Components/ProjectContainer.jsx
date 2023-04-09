@@ -19,7 +19,7 @@ export default class ProjectContainer extends React.Component {
                         width={this.props.width}
                     />
                     {/* <div class="col" style={{padding:"2%"}}> */}
-                        <div style={{marginBottom:"10px"}}>
+                        <div style={{color: "black", marginBottom:"10px"}}>
                             <div style={{margin:"0"}}>{this.props.name}</div> 
                             <div style={{opacity:".8"}}> {this.props.type}</div>
                         </div>

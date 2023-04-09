@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.3.0",
+    "react-scripts": "^5.0.1",
     "react-text-scrambler": "^1.1.3"
   },
   "scripts": {
@@ -35,7 +35,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^5.0.0"
   },
   "homepage": "https://kalee12.github.io/"
 }

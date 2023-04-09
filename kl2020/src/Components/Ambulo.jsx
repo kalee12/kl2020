@@ -26,7 +26,12 @@ export default class Ambulo extends React.Component {
                         </div>
                         <div>
                             <div style={{color:"#90DAB9", display:"inline", fontWeight:"bold"}}>APIs: </div>
-                            <div style={{display:"inline"}}>Google (Map / Place), TrailAPI, Flickr</div>
+                            <div style={{display:"inline"}}>Google Map, Google Place, TrailAPI, Flickr</div>
+                        </div>
+                        <div style={{marginTop: "2%"}}>
+                            <a class="amL" href="https://info343-aut17.github.io/Ambulo/#/" target="_blank" 
+                                style={{marginRight:"5%"}}>View Application</a>
+                            <a class="amL" href="https://github.com/INFO343-aut17/Ambulo" target="_blank">View GitHub Repo</a>
                         </div>
                     </div>
                     <div style={{marginTop:"5%"}}>
@@ -51,9 +56,7 @@ export default class Ambulo extends React.Component {
                                 on bugs my teammates had.  
                             </div>
                             <div style={{marginTop:"2%", textAlign:"center"}}>
-                                <a class="amL" href="https://info343-aut17.github.io/Ambulo/#/" target="_blank" 
-                                    style={{marginRight:"5%"}}>View Application</a>
-                                <a class="amL" href="https://github.com/INFO343-aut17/Ambulo" target="_blank">View GitHub Repo</a>
+
                             </div>
                         </div>
                     </div>

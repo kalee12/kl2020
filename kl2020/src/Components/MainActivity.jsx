@@ -21,7 +21,7 @@ export default class MainActivity extends React.Component {
                 <Navigation/>
                 <div style={{margin: 'auto', padding: '0 5% 0 5%', width: "90%"}}>
                         <div class="row">
-                            {/* <div class="col">
+                            <div class="col">
                                 <ProjectContainer
                                     bg='rgba(61, 16, 112, .1)'
                                     bottom='0'
@@ -36,7 +36,7 @@ export default class MainActivity extends React.Component {
                                     type='Web Application'
                                     width='60%'
                                 />
-                            </div> */}
+                            </div>
                             <div class="col">
                                 <ProjectContainer
                                     bg='rgba(102, 143, 191, .1)'

@@ -24,6 +24,8 @@ export default class Chromatic extends React.Component {
                             <div style={{color:"#668FBF", display:"inline", fontWeight:"bold"}}>Tools: </div>
                             <div style={{display:"inline"}}>Java, Firebase, Adobe XD</div>
                         </div>
+                        <a class="chL" href="https://github.com/kalee12/chromatic" target="_blank" 
+                                    style={{display:"block", textAlign:"center", marginTop: "3%"}}>View GitHub Repo</a>
                     </div>
                     <div style={{marginTop:"5%"}}>
                         <div class="chromatic" style={{fontSize:"1.5em"}}>Context</div>
@@ -38,13 +40,15 @@ export default class Chromatic extends React.Component {
                                 <li>user experience should be well-designed</li>
                             </ul>
                         </div>
+                        <div class="chromatic" style={{fontSize:"1.5em", marginTop:"2%"}}>Description</div>
+                        <div style={{paddingLeft:"5%"}}>
+                            Chromatic is an Android camera application allowing users with a desire to seek colors found naturally 
+                            and around the world to simply extract the inspiration in their photos and lay them out as palettes and moodboards.
+                        </div>
                         <div class="chromatic" style={{fontSize:"1.5em", marginTop:"2%"}}>Role</div>
                         <div style={{paddingLeft:"5%"}}>
-                            <div>I developed the interactions in which a user chooses to import their own photo and 
+                            I developed the interactions in which a user chooses to import their own photo and 
                                 can drag along the photo to pick out the colors for their palette.
-                            </div>
-                            <a class="chL" href="https://github.com/kalee12/chromatic" target="_blank" 
-                                    style={{display:"block", textAlign:"center", marginTop: "3%"}}>View GitHub Repo</a>
                         </div>
                     </div>
                 </div>

@@ -1,29 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.abd3498e.chunk.css",
-    "main.js": "/static/js/main.1a3a61c3.chunk.js",
-    "main.js.map": "/static/js/main.1a3a61c3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e3b9f68e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e3b9f68e.js.map",
-    "static/js/2.d23105f2.chunk.js": "/static/js/2.d23105f2.chunk.js",
-    "static/js/2.d23105f2.chunk.js.map": "/static/js/2.d23105f2.chunk.js.map",
+    "main.css": "/static/css/main.548d52c7.css",
+    "main.js": "/static/js/main.8499151a.js",
+    "static/media/Karen.jpg": "/static/media/Karen.617a84adb71ad1b9c87e.jpg",
+    "static/media/ambulo_icon_w.svg": "/static/media/ambulo_icon_w.11768beb3aae26414d64b0c6c7339303.svg",
+    "static/media/aevus_icon_w.svg": "/static/media/aevus_icon_w.08082b72100ab14fe7a0f62c0a5eab8d.svg",
+    "static/media/shift_icon_w.svg": "/static/media/shift_icon_w.342cab4f9d23b723700b8f29a61a1bda.svg",
+    "static/media/HH_icon_w.svg": "/static/media/HH_icon_w.d7ca7e48ffc67914f1be0e67e76797d2.svg",
+    "static/media/chromatic_icon_w.svg": "/static/media/chromatic_icon_w.264afb32dd4c271f459b73f7331e77ce.svg",
     "index.html": "/index.html",
-    "precache-manifest.11f467ef1abd7b165bd049e2b2043c18.js": "/precache-manifest.11f467ef1abd7b165bd049e2b2043c18.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.abd3498e.chunk.css.map": "/static/css/main.abd3498e.chunk.css.map",
-    "static/js/2.d23105f2.chunk.js.LICENSE": "/static/js/2.d23105f2.chunk.js.LICENSE",
-    "static/media/HH_icon_w.svg": "/static/media/HH_icon_w.5f12e099.svg",
-    "static/media/SH_icon_w.svg": "/static/media/SH_icon_w.23268204.svg",
-    "static/media/aevus_icon_w.svg": "/static/media/aevus_icon_w.e8dfc542.svg",
-    "static/media/ambulo_icon_w.svg": "/static/media/ambulo_icon_w.ce670962.svg",
-    "static/media/chromatic_icon_w.svg": "/static/media/chromatic_icon_w.8eec895b.svg",
-    "static/media/default_icon_w.svg": "/static/media/default_icon_w.b0380098.svg",
-    "static/media/shift_icon_w.svg": "/static/media/shift_icon_w.3d1a01bd.svg"
+    "static/media/default_icon_w.svg": "/static/media/default_icon_w.af34c5b42eb81d705fdb4b61474d4de1.svg",
+    "static/media/SH_icon_w.svg": "/static/media/SH_icon_w.cf380f72fe9e63d5659263c0c92eec89.svg",
+    "main.548d52c7.css.map": "/static/css/main.548d52c7.css.map",
+    "main.8499151a.js.map": "/static/js/main.8499151a.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3b9f68e.js",
-    "static/js/2.d23105f2.chunk.js",
-    "static/css/main.abd3498e.chunk.css",
-    "static/js/main.1a3a61c3.chunk.js"
+    "static/css/main.548d52c7.css",
+    "static/js/main.8499151a.js"
   ]
 }

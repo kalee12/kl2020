@@ -1,10 +1,10 @@
 a {
-  color: black;
+color: black;
  text-decoration: none;
 }
 
 a:hover {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
@@ -29,7 +29,6 @@ a:hover {
   border: 2px solid rgb(102, 143, 191);
   border-radius: 10px !important;
   color: #67a1ff !important;
-  margin-top: 2%;
   padding: 10px !important;
 }
 
@@ -54,9 +53,9 @@ a:hover {
   background-color: #1FB3A9;
 }
 
-.amL, .button, .chL,
-.hhL, .ocamL,
-.shL, .shiL  {
+.amL:link, .amL:visited, .button:link, .button:visited, .chL:link,
+.chL:visited, .hhL:link, .hhL:visited, .ocamL:link, .ocamL:visited,
+.shL:link, .shL:visited, .shiL:link, .shiL:visited  {
   border-radius: 50px;
   color: white;
   padding: 2% 5%;

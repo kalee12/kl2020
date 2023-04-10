@@ -76,6 +76,10 @@ a:hover {
   /* opacity: .8; */
 }
 
+.flip {
+  display: none;
+}
+
 .inner {
   margin-top: 30%;
   padding: 10px;

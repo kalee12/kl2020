@@ -8,6 +8,17 @@ export default class About extends React.Component {
     render() {
         const strings = ["a web developer", "an android developer", "a library specialist", "a landscape photographer",
                     "a philosopher"];
+        
+        const flipped = event => {
+            event.currentTarget.classList.toggle('flip');
+            document.getElementById('table').classList.toggle('flip');
+        };
+
+        const set = event => {
+            event.currentTarget.classList.toggle('flip');
+            document.getElementById('set').classList.toggle('flip');
+        };
+
         return(
             <div style={{marginBottom:"5%"}}>
                 <Navigation/>
@@ -44,6 +55,10 @@ export default class About extends React.Component {
                         contact: leekaren888@gmail.com 
                     </div>
                     <a class="button" href="https://drive.google.com/file/d/1Ml2VhazDZEQmUmDWmvpmwGxce9iZBAjl/view?usp=share_link">resume</a>
+                    <div style={{textAlign: "center"}}>
+                        <div id="table" onClick={set}>(╯°□°）╯︵ ┻━┻</div>
+                        <div class="flip" id="set" onClick={flipped}>┬─┬ノ( º _ ºノ)</div>
+                    </div>
 
                 </div>
             </div>
